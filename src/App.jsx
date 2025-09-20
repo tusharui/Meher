@@ -6,6 +6,7 @@ import Headerbtn from './components/Headerbtn.jsx';
 import Headercard from './components/Headercard.jsx';
 import Topsellingbtn from './components/Topselling/Topsellingbtn.jsx';
 import Chooseus from './Whychooseus/choose.jsx';
+import Products from './Allproducts/products.jsx';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Headercard/>
       <Topsellingbtn/>
       <Chooseus/>
+      <Products/>
     </div>
   );
 }

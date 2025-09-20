@@ -5,6 +5,7 @@ import Headerimg from './components/headerimg.jsx';
 import Headerbtn from './components/Headerbtn.jsx';
 import Headercard from './components/Headercard.jsx';
 import Topsellingbtn from './components/Topselling/Topsellingbtn.jsx';
+import Chooseus from './Whychooseus/choose.jsx';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Headerbtn/>
       <Headercard/>
       <Topsellingbtn/>
+      <Chooseus/>
     </div>
   );
 }

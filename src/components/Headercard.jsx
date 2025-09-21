@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Card1 from "../assets/Card1.jpeg";
-import Card2 from "../assets/card2.jpeg";
+import card2 from "../assets/card2.jpeg";
 import Card3 from "../assets/Card3.jpeg";
 
 function Headercard() {

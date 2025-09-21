@@ -10,7 +10,7 @@ function Headerimg() {
       <img src={testinomials} className="w-[60px] rounded-xl" alt="testimonial3" />
     </div>
     <div>
-        <h1 className="flex gap-1 pl-313 mt-1 text-4xl font-medium text-[#5C5555]">500+</h1>
+        <h1 className="flex gap-1 pl-313 mt-1 text-4xl font-medium text-[#5C5555]"> 500+</h1>
     </div>
     </>
   );

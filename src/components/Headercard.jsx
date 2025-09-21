@@ -1,8 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Card1 from "../assets/card1.jpeg";
+import Card1 from "../assets/black1.jpeg";
 import Cards2 from "../assets/capps.jpeg";
-import Card3 from "../assets/card3.jpeg";
+import Card3 from "../assets/shoesss.jpeg";
 
 function Headercard() {
   const imageAnimation = {

@@ -1,8 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Card1 from "../assets/Card1.jpeg";
-import Card2 from "../assets/Card2.jpeg";
-import Card3 from "../assets/Card3.jpeg";
+import Card1 from "../assets/card1.jpeg";
+import Cards2 from "../assets/capps.jpeg";
+import Card3 from "../assets/card3.jpeg";
 
 function Headercard() {
   const imageAnimation = {
@@ -41,7 +41,7 @@ function Headercard() {
         transition={{ delay: 0.3 }}
       >
         <motion.img
-          src={Card2}
+          src={Cards2}
           alt="Card 2"
           className="w-full h-150 object-cover rounded-xl"
           whileHover={{ scale: 1.05 }}
